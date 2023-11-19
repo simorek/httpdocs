@@ -17,7 +17,7 @@ $urlname=$_SERVER['SERVER_NAME'];
 <div class="container">
   <div class="vertical-center">
     <h1><?php echo $urlname ?></h1>
-	<p>domain</p>
+	<p>domain #</p>
   </div>
 </div>
 
