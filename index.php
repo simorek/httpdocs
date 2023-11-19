@@ -1,6 +1,6 @@
 <?php
 
-$urlname="test2";
+$urlname=$_SERVER['SERVER_NAME'];
 
 ?>
 <!DOCTYPE html>
