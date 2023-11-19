@@ -1,0 +1,21 @@
+body {
+  background-color: #ffffff;
+  text-align:center;
+}
+
+h1 {
+  color: navy;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+
+  margin:200px 0 auto 0;
+  
+}
+
+.vertical-center {
+	
+  text-align:center;
+
+}
