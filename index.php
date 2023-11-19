@@ -1,6 +1,6 @@
 <?php
 
-$urlname="test";
+$urlname="test2";
 
 ?>
 <!DOCTYPE html>
